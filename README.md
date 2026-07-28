@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/damnikrebello-star/DominicProject/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/damnikrebello-star/DominicProject/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/damnikrebello-star/DominicProject/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/damnikrebello-star/DominicProject/tree/master/1331-rank-transform-of-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/damnikrebello-star/DominicProject/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/damnikrebello-star/DominicProject/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/damnikrebello-star/DominicProject/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
