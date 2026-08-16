@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/damnikrebello-star/DominicProject/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/damnikrebello-star/DominicProject/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/damnikrebello-star/DominicProject/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/damnikrebello-star/DominicProject/tree/master/2029-stone-game-ix) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/damnikrebello-star/DominicProject/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/damnikrebello-star/DominicProject/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/damnikrebello-star/DominicProject/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/damnikrebello-star/DominicProject/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/damnikrebello-star/DominicProject/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/damnikrebello-star/DominicProject/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/damnikrebello-star/DominicProject/tree/master/2029-stone-game-ix) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/damnikrebello-star/DominicProject/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/damnikrebello-star/DominicProject/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/damnikrebello-star/DominicProject/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
@@ -102,12 +105,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/damnikrebello-star/DominicProject/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/damnikrebello-star/DominicProject/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/damnikrebello-star/DominicProject/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/damnikrebello-star/DominicProject/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/damnikrebello-star/DominicProject/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/damnikrebello-star/DominicProject/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/damnikrebello-star/DominicProject/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/damnikrebello-star/DominicProject/tree/master/2029-stone-game-ix) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/damnikrebello-star/DominicProject/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/damnikrebello-star/DominicProject/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
