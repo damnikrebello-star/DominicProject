@@ -59,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/damnikrebello-star/DominicProject/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/damnikrebello-star/DominicProject/tree/master/2029-stone-game-ix) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/damnikrebello-star/DominicProject/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/damnikrebello-star/DominicProject/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/damnikrebello-star/DominicProject/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/damnikrebello-star/DominicProject/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/damnikrebello-star/DominicProject/tree/master/1386-cinema-seat-allocation) |
+| [3483-unique-3-digit-even-numbers](https://github.com/damnikrebello-star/DominicProject/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/damnikrebello-star/DominicProject/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/damnikrebello-star/DominicProject/tree/master/1291-sequential-digits) |
+| [3483-unique-3-digit-even-numbers](https://github.com/damnikrebello-star/DominicProject/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/damnikrebello-star/DominicProject/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/damnikrebello-star/DominicProject/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/damnikrebello-star/DominicProject/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/damnikrebello-star/DominicProject/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
 | ------- |
