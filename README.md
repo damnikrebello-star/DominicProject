@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/damnikrebello-star/DominicProject/tree/master/0002-add-two-numbers) |
+| [0171-excel-sheet-column-number](https://github.com/damnikrebello-star/DominicProject/tree/master/0171-excel-sheet-column-number) |
 | [0486-predict-the-winner](https://github.com/damnikrebello-star/DominicProject/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/damnikrebello-star/DominicProject/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/damnikrebello-star/DominicProject/tree/master/0836-rectangle-overlap) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/damnikrebello-star/DominicProject/tree/master/0171-excel-sheet-column-number) |
 | [1096-brace-expansion-ii](https://github.com/damnikrebello-star/DominicProject/tree/master/1096-brace-expansion-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/damnikrebello-star/DominicProject/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/damnikrebello-star/DominicProject/tree/master/3517-smallest-palindromic-rearrangement-i) |
