@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/damnikrebello-star/DominicProject/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/damnikrebello-star/DominicProject/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/damnikrebello-star/DominicProject/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/damnikrebello-star/DominicProject/tree/master/0836-rectangle-overlap) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/damnikrebello-star/DominicProject/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/damnikrebello-star/DominicProject/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/damnikrebello-star/DominicProject/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/damnikrebello-star/DominicProject/tree/master/1096-brace-expansion-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/damnikrebello-star/DominicProject/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
