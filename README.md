@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/damnikrebello-star/DominicProject/tree/master/1096-brace-expansion-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/damnikrebello-star/DominicProject/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/damnikrebello-star/DominicProject/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/damnikrebello-star/DominicProject/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/damnikrebello-star/DominicProject/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/damnikrebello-star/DominicProject/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/damnikrebello-star/DominicProject/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/damnikrebello-star/DominicProject/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/damnikrebello-star/DominicProject/tree/master/1386-cinema-seat-allocation) |
 | [3483-unique-3-digit-even-numbers](https://github.com/damnikrebello-star/DominicProject/tree/master/3483-unique-3-digit-even-numbers) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/damnikrebello-star/DominicProject/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/damnikrebello-star/DominicProject/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/damnikrebello-star/DominicProject/tree/master/1331-rank-transform-of-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/damnikrebello-star/DominicProject/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/damnikrebello-star/DominicProject/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -162,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/damnikrebello-star/DominicProject/tree/master/0836-rectangle-overlap) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/damnikrebello-star/DominicProject/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/damnikrebello-star/DominicProject/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
