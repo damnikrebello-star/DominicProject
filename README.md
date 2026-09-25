@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/damnikrebello-star/DominicProject/tree/master/0001-two-sum) |
 | [0486-predict-the-winner](https://github.com/damnikrebello-star/DominicProject/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/damnikrebello-star/DominicProject/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/damnikrebello-star/DominicProject/tree/master/0877-stone-game) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/damnikrebello-star/DominicProject/tree/master/0001-two-sum) |
 | [1096-brace-expansion-ii](https://github.com/damnikrebello-star/DominicProject/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/damnikrebello-star/DominicProject/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/damnikrebello-star/DominicProject/tree/master/1386-cinema-seat-allocation) |
